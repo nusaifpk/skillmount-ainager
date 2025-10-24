@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.skillmount_ainager.twa",
+        "sha256_cert_fingerprints": [
+          "59:C3:10:0B:12:48:67:FE:DA:A4:29:13:C5:E9:17:93:D5:58:50:90:B6:DB:8D:CC:58:19:2C:F3:EC:8C:1F:5A"
+        ]
+      }
+    }
+  ]
+  
